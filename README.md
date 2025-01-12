@@ -32,14 +32,17 @@ Embark on a visual journey through history! Our interactive scroll pointer lets 
 
 <span>ScrollMotion: On-Scroll Animations </span>
 <br />
-<a href="" target="_blank">
-<img style="width:350px;" src="." alt="" /></a>
+<a href="https://www.behance.net/gallery/216663967/Timeline-A-Scrollable-Journey" target="_blank">
+<img style="width:350px;" src="./onScrollTimelineAnimationStart&EndPoint.gif" alt="" /></a>
 <br />
 <br/>
-<span>Cover </span>
+<span> On-Scroll Timeline Animation Start & End Point </span>
 <br/>
-<a href="" target="_blank">
-<img style="width:350px;" src="." alt="" /></a>
+<a href="https://www.behance.net/gallery/216663967/Timeline-A-Scrollable-Journey" target="_blank">
+<img style="width:350px;" src="./onScrollTimelineAnimationStartPoint.png" alt="" />
+<img style="width:350px;" src="./onScrollTimelineAnimationEndPoint.png" alt="" />
+</a>
+
 <br />
 ###### Lang
 <ul>
